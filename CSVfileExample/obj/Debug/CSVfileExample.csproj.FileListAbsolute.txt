@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\bin\Debug\CSVfileExample.exe.config
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\bin\Debug\CSVfileExample.exe
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\bin\Debug\CSVfileExample.pdb
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.Properties.Resources.resources
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.exe
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.pdb
+C:\Users\DELL\source\repos\CSVfileExample\CSVfileExample\obj\Debug\CSVfileExample.frmCSVbrowse.resources
